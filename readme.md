@@ -22,7 +22,7 @@ python setup_hopital_db.py
 
 ### 3. Exécuter toutes les solutions du TP
 ```bash
-python tp7_solutions.py
+python sol.py
 ```
 
 ---
